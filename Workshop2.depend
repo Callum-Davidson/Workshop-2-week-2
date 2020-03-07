@@ -7,6 +7,11 @@
 1583319797 source:c:\users\callu\onedrive - the university of newcastle\engg 1003\workshop2\input-processing-output excersises.c
 	<stdio.h>
 
-1583321718 source:c:\users\callu\onedrive - the university of newcastle\engg 1003\workshop2\flow control excersises.c
+1583575604 source:c:\users\callu\onedrive - the university of newcastle\engg 1003\workshop2\flow control excersises.c
+	<stdio.h>
+	<math.h>
+
+1583585548 source:c:\users\callu\onedrive - the university of newcastle\engg 1003\workshop2\random numbers.c
+	<stdlib.h>
 	<stdio.h>
 

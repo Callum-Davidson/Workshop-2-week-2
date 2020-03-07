@@ -40,6 +40,9 @@
 		<Unit filename="Input-processing-output Excersises.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="Random numbers.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
